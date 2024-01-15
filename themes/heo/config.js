@@ -12,7 +12,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享跨境出海',
   HEO_HERO_TITLE_2: '与外贸营销',
-  HEO_HERO_TITLE_3: 'Vavfitop.COM',
+  HEO_HERO_TITLE_3: 'Vavfitop.com',
   HEO_HERO_TITLE_4: 'B2B出海',
   HEO_HERO_TITLE_5: 'Siteground 轻松自建网站',
   HEO_HERO_TITLE_LINK: 'https://vanfitop.com',
@@ -29,7 +29,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！我是Frank',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
