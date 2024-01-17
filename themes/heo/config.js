@@ -12,9 +12,9 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享跨境出海',
   HEO_HERO_TITLE_2: '与外贸营销',
-  HEO_HERO_TITLE_3: 'Vavfitop.com',
+  HEO_HERO_TITLE_3: 'Vanfitop.com',
   HEO_HERO_TITLE_4: 'B2B出海',
-  HEO_HERO_TITLE_5: 'Siteground 轻松自建网站',
+  HEO_HERO_TITLE_5: 'Wordpress 轻松自建网站',
   HEO_HERO_TITLE_LINK: 'https://vanfitop.com',
 
   // 英雄区显示三个置顶分类
